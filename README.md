@@ -3,7 +3,7 @@
 
 <strong>Sou estudante de desenvolvimento Full Stack</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>JavaScript</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>JavaScript,Html</strong> 
 - 💬 Pergunte-me sobre: <strong>Jogos, Redes, Ciclismo.</strong>
 
 <div align="center">
